@@ -1,1 +1,1 @@
-print "Hello world"
+print "We come in peace."
